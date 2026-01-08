@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML CSS Page</title>
+
+    <style>
+        body {
+            background-color: #f2f7ff;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 400px;
+            margin: 100px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #2b6cb0;
+        }
+
+        p {
+            color: #555;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #2b6cb0;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1e4f91;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Welcome</h1>
+        <p>This is a simple HTML and CSS example.</p>
+        <button>Click Me</button>
+    </div>
+
+</body>
+</html>
