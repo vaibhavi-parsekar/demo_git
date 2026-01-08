@@ -1,0 +1,3 @@
+Create java10.txt fileHello Java File Handling
+Writing data using FileWriterCreate java10.txt fileHello Java File Handling
+Writing data using FileWriterCreate java10.txt file
